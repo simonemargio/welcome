@@ -2,7 +2,7 @@
 
 A Welcome [website](https://simonemargio.github.io/welcome/) used as a link for social networks. Contains all my links for social networks and more.
 
-![Site](https://user-images.githubusercontent.com/22590804/219618803-1b68a6e7-a22b-45a2-b098-8e12f66d0121.png)
+![Site](https://user-images.githubusercontent.com/22590804/219940092-d306cd51-5522-4e11-968e-bf2cd90f961f.png)
 
 
 # Deploy by GitHub 
